@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently studying in a Higher Vocational Training in DAM<br>
+🌱 I’m currently studying a Higher Vocational Training in DAM<br>
 
 
 ## 🌐 Socials:
