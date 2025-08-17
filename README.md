@@ -20,8 +20,5 @@ Junior Mobile App Developer located in Madrid - Open to work!<br>
 </div>
 <br>
   
----
-[![](https://visitcount.itsvg.in/api?id=rinndp&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
