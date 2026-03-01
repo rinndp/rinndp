@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Mobile App Developer located in Madrid - Open to work!<br>
+Software Engineer located in Madrid - Open to work!<br>
 
 ![](https://komarev.com/ghpvc/?username=rinndp&color=green)
 
