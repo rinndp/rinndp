@@ -8,11 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=rinndp&color=green&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
 </a>
 
-<br/><br/>
-
-<img src="./assets/cat.gif" alt="gif" width="300"/>
-
-<br/><br/>
+<img src="https://i.giphy.com/VkpfO6W4D7yB7vSjXy.webp" alt="gif" width="300"/>
 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axeldanielrojasperez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelrojas3)
@@ -105,8 +101,6 @@ I'm currently **open to work**, so if you think we could build something great t
 
 📫 **¿Tienes un proyecto o una oferta? ¡Escríbeme!**
 
-[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:axeldanielrojasperez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelrojas3)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" width="100%"/>
 
