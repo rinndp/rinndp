@@ -79,14 +79,21 @@ I'm currently **open to work**, so if you think we could build something great t
 
 <div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=rinndp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=rinndp&theme=dark&hide_border=false" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rinndp&theme=dark&hide_border=false&include_all_commits=false&layout=compact" alt="Top languages"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="165" src="https://github-readme-stats.shion.dev/api?username=rinndp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
+    </td>
+    <td align="center" valign="middle">
+      <img height="165" src="https://streak-stats.demolab.com/?user=rinndp&theme=dark&hide_border=false" alt="GitHub streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="2">
+      <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rinndp&theme=dark&hide_border=false&include_all_commits=false&layout=compact" alt="Top languages"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
