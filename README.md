@@ -6,7 +6,7 @@
 
 <a href="https://github.com/rinndp">
   <img src="https://komarev.com/ghpvc/?username=rinndp&color=green&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
-</a>
+</a><br/>
 
 <img src="https://i.giphy.com/VkpfO6W4D7yB7vSjXy.webp" alt="gif" width="300"/>
 
