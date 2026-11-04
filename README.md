@@ -2,17 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Axel%20Rojas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=22" alt="header" width="100%"/>
 
-### 💫 Software Engineer · 📍 Madrid, Spain · 🟢 Open to work
+### 💫 Software Engineer · 📍 Madrid, España · 🟢 Open to work
 
 <a href="https://github.com/rinndp">
   <img src="https://komarev.com/ghpvc/?username=rinndp&color=green&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
 </a>
 
+<br/><br/>
+
+<img src="./assets/cat.gif" alt="gif" width="300"/>
+
+<br/><br/>
+
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axeldanielrojasperez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelrojas3)
-
-
-<img src="https://i.giphy.com/VkpfO6W4D7yB7vSjXy.webp" alt="gif" width="300"/>
 
 </div>
 
@@ -76,12 +79,14 @@ I'm currently **open to work**, so if you think we could build something great t
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=rinndp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
-<img height="180" src="https://streak-stats.demolab.com/?user=rinndp&theme=dark&hide_border=false" alt="GitHub streak"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=rinndp&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=rinndp&theme=dark&hide_border=false" alt="GitHub streak"/>
+</p>
 
-<br/>
-
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rinndp&theme=dark&hide_border=false&include_all_commits=false&layout=compact" alt="Top languages"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rinndp&theme=dark&hide_border=false&include_all_commits=false&layout=compact" alt="Top languages"/>
+</p>
 
 </div>
 
@@ -92,6 +97,9 @@ I'm currently **open to work**, so if you think we could build something great t
 <div align="center">
 
 📫 **¿Tienes un proyecto o una oferta? ¡Escríbeme!**
+
+[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:axeldanielrojasperez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelrojas3)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" width="100%"/>
 
