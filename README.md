@@ -10,6 +10,10 @@
 
 <br/><br/>
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl4cmlseWp5bG5rM3o5enBrN3JlMjI4bWtkZjlldDZ1dTllYmJhciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VkpfO6W4D7yB7vSjXy/giphy.gif" alt="gif" width="300"/>
+
+<br/><br/>
+
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axeldanielrojasperez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelrojas3)
 
