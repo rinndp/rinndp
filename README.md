@@ -96,9 +96,6 @@ I'm currently **open to work**, so if you think we could build something great t
 
 📫 **¿Tienes un proyecto o una oferta? ¡Escríbeme!**
 
-[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:axeldanielrojasperez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelrojas3)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" width="100%"/>
 
 </div>
