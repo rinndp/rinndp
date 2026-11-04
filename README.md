@@ -8,10 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=rinndp&color=green&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
 </a><br/>
 
-<img src="https://i.giphy.com/VkpfO6W4D7yB7vSjXy.webp" alt="gif" width="300"/>
 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axeldanielrojasperez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelrojas3)
+
+<img src="https://i.giphy.com/VkpfO6W4D7yB7vSjXy.webp" alt="gif" width="300"/>
+
 
 </div>
 
