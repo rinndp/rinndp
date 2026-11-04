@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Axel%20Rojas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=22" alt="header" width="100%"/>
 
-### 💫 Software Engineer · 📍 Madrid, España · 🟢 Open to work
+### 📍 Madrid, España · 🟢 Open to work
 
 <a href="https://github.com/rinndp">
   <img src="https://komarev.com/ghpvc/?username=rinndp&color=green&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views"/>
